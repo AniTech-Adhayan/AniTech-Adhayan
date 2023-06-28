@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AniTech-Adhayan
 - 👀 I’m intrested in Flutter and App development
 - 🌱 I’m currently learning Flutter app development, advanced c++, advanced python
-- 💞️ I’m looking to get Guidance on FLutter and C++/Python
+- 💞️ I’m looking to get Guidance on Flutter and C++/Python
 - 📫 How to reach me ... adhayan.bugu@gmail.com
 
 <!---
